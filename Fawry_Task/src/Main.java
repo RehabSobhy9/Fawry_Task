@@ -21,7 +21,7 @@ public class Main {
         Cart cart=new Cart();
 
            controller.ProductValidate("Cheese",3);
-            cart.add("Mobile card",2);
+            cart.add("Cheese",2);
 
 
 
