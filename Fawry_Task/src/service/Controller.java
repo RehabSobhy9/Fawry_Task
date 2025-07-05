@@ -41,7 +41,7 @@ public class Controller  {
                  }
              }
              if(found) {
-//      System.out.println(Name+"  "+i.name+"   price  "+i.weight+" "+"quant"+quantity);
+
                  total += (i.getPrice() * quantity);
                  if(i.shipping) {
 
